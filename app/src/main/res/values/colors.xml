@@ -2,4 +2,34 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#5F27CD</color>
+    <color name="colorSecondary">#00CEC9</color>
+    <color name="colorTertiary">#39FF14</color>
+    <color name="colorBackground">#0A0A0A</color>
+    <color name="colorSurface">#121212</color>
+    <color name="colorError">#D50000</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorPrimaryLight">#BB86FC</color>
+    <color name="colorSecondaryDark">#018786</color>
+    <color name="colorSecondaryLight">#03DAC5</color>
+    <color name="colorTertiaryDark">#00B894</color>
+    <color name="colorTextSecondary">#B0B0B0</color>
+    <color name="colorTextTertiary">#757575</color>
+    <color name="colorTextLinkVisited">#00B894</color>
+    <color name="colorDisable">#666666</color>
+    <color name="cybermagenta">#FF6EC7</color>
+    <color name="cyberyellow">#F3E03B</color>
+    <color name="cybergreen">#00FF00</color>
+    <color name="cyberblue">#00BFFF</color>
+    <color name="cyberred">#FF0000</color>
+    <color name="cyberorange">#FFA500</color>
+    <color name="cyberpurple">#800080</color>
+    <color name="cyberpink">#FF1493</color>
+    <color name="cybercyan">#00FFFF</color>
+    <color name="cyberwhite">#FFFFFF</color>
+    <color name="NeonYellow">#F9CA24</color>
 </resources>

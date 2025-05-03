@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Xyradix</string>
+    <string name="logo_splash">Logo_Splash</string>
+    <string name="xyradix">Xyradix</string>
+    <string name="decoding_memories_creating_futures">Decoding Memories, Creating Futures.</string>
+    <string name="_2025_xyradix_by_manik_all_rights_reserved">© 2025 Xyradix by Manik. All rights reserved.</string>
 </resources>
