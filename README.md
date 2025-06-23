@@ -24,7 +24,9 @@
 Founder of **Xyradix**, **Alien Sutra**, **Alien OS**, and **Alien Paani** —  
 Manik is on a mission to disrupt broken academic systems with ethical, AI-powered, open-source tools. Known for his viral tech tutorials and passion-fueled builds, he believes **education should heal, not hurt**.
 
-📌 _Search “Manik Alien” on Google. You’ll know why we trust him._
+📌 **Want to know who I really am?**  
+### 👉 `Google: Manik Shrivastav`  
+If I show up, you’re ready. If I don’t — you’re not looking hard enough.
 
 🛸 Alien Sutra (https://www.youtube.com/@AlienSutra)  
 🌿 _Nature lover. Code poet. Idea machine._
